@@ -1,0 +1,3 @@
+*.log
+.env
+terraform.tfstate*
